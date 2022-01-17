@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zipfre
 - 👀 I’m interested in C#, .Net core and React
-- 🌱 I’m currently learning .Net 5
-- 💞️ I’m looking to collaborate on .Net based projects or React Frontend
+- 🌱 I’m currently working python, nodejs and Angular stack
+- 💞️ I’m looking to collaborate on python, nodejs projects
 - 📫 You can reach me on zipper.itdev@gmail.com or https://www.linkedin.com/in/fre-tesfaselassie-572104103/
 
 <!---
