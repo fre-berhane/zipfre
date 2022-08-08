@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zipfre
-- 👀 I’m interested in C#, .Net core and React, AWS cloud
-- 🌱 I’m currently working python, nodejs and Angular stack 
-- 💞️ I’m looking to collaborate on python, nodejs projects
+- 👋 Hi, I’m @Fre
+- 👀 I’m interested in C#, .Net core, AWS cloud
+- 🌱 I’m currently working Kotlin, Python
+- 💞️ I’m looking to collaborate on C# and Angular
 - 📫 You can reach me on zipper.itdev@gmail.com or https://www.linkedin.com/in/fre-berhane
 
 <!---
